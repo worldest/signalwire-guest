@@ -1,0 +1,35 @@
+{
+  "name": "zoom-clone-livewire-original",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@signalwire/js": "3.1.1",
+    "axios": "0.21.1",
+    "bootstrap": "5.1.0",
+    "react": "17.0.2",
+    "react-bootstrap": "2.0.0-beta.6",
+    "react-dom": "17.0.2",
+    "react-icons": "4.2.0",
+    "react-router-dom": "5.2.1",
+    "react-scripts": "4.0.0",
+    "use-screen-size": "1.1.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
