@@ -77,7 +77,7 @@ export default function JoinCallForm({ onJoin = () => {} }) {
                 type="hidden"
                 placeholder="Room Name"
                 onChange={(e) => setMod(e.target.value)}
-                value="moderator"
+                value="guest"
                 pattern="[^' ']+"
                 required
               />
